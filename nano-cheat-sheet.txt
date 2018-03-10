@@ -8,3 +8,4 @@ Esc $ : soft wrapping of overlong lines.
 Esc | : Moves cursor to first letter on first line.
 -$ : softwrap (put entire content on one line)
 -i : autoindent
+-W : wordbounds
