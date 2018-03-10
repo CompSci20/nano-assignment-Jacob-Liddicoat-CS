@@ -7,3 +7,4 @@ Esc g : go to line number and column number.
 Esc $ : soft wrapping of overlong lines.
 Esc | : Moves cursor to first letter on first line.
 -$ : softwrap (put entire content on one line)
+-i : autoindent
