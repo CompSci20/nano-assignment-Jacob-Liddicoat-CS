@@ -1,1 +1,2 @@
 Ctrl+x : exit nano.
+Ctrl+w : where is a specific word.
