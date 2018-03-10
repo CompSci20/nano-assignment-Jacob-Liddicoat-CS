@@ -5,3 +5,4 @@ Ctrl+a : move to the beginning of the current line.
 Ctrl+e : move to the end of the current line.
 Esc g : go to line number and column number.
 Esc $ : soft wrapping of overlong lines.
+Esc | : Moves cursor to first letter on first line.
